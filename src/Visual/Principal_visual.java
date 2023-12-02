@@ -15,7 +15,7 @@ public class Principal_visual extends JFrame {
 	private JPanel contentPane;
 
 	
-	//cambio
+	//cambios
 	
 	
 	/**
